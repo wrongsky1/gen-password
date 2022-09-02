@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.dd6f41e0.chunk.css",
-    "main.js": "/static/js/main.0247ea11.chunk.js",
-    "main.js.map": "/static/js/main.0247ea11.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.25e8bf7c.js",
-    "runtime-main.js.map": "/static/js/runtime-main.25e8bf7c.js.map",
-    "static/js/2.785c4f7c.chunk.js": "/static/js/2.785c4f7c.chunk.js",
-    "static/js/2.785c4f7c.chunk.js.map": "/static/js/2.785c4f7c.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.dd6f41e0.chunk.css.map": "/static/css/main.dd6f41e0.chunk.css.map",
-    "static/js/2.785c4f7c.chunk.js.LICENSE.txt": "/static/js/2.785c4f7c.chunk.js.LICENSE.txt"
+    "main.css": "/gen-password/static/css/main.dd6f41e0.chunk.css",
+    "main.js": "/gen-password/static/js/main.0a2bdb83.chunk.js",
+    "main.js.map": "/gen-password/static/js/main.0a2bdb83.chunk.js.map",
+    "runtime-main.js": "/gen-password/static/js/runtime-main.cb4fddb0.js",
+    "runtime-main.js.map": "/gen-password/static/js/runtime-main.cb4fddb0.js.map",
+    "static/js/2.785c4f7c.chunk.js": "/gen-password/static/js/2.785c4f7c.chunk.js",
+    "static/js/2.785c4f7c.chunk.js.map": "/gen-password/static/js/2.785c4f7c.chunk.js.map",
+    "index.html": "/gen-password/index.html",
+    "static/css/main.dd6f41e0.chunk.css.map": "/gen-password/static/css/main.dd6f41e0.chunk.css.map",
+    "static/js/2.785c4f7c.chunk.js.LICENSE.txt": "/gen-password/static/js/2.785c4f7c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.25e8bf7c.js",
+    "static/js/runtime-main.cb4fddb0.js",
     "static/js/2.785c4f7c.chunk.js",
     "static/css/main.dd6f41e0.chunk.css",
-    "static/js/main.0247ea11.chunk.js"
+    "static/js/main.0a2bdb83.chunk.js"
   ]
 }
